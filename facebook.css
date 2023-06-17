@@ -1,0 +1,198 @@
+.header{
+        
+    background-color:#0165E1;
+    width: 100%;
+    height:100px ;
+
+}
+body{
+    margin: 0%;
+font-family: Helvetica Neue,Helvetica,Arial, sans-serif;
+
+
+}
+.logo-text{
+    color: #ffff;
+    float: left;
+    font-weight: bold;
+    margin-left: 146px;
+    margin-top:0px;
+    text-decoration: none;
+    
+
+}
+.logo {
+    font-size: 40px;
+    padding-top: 32px;
+   float: left;
+ }
+.login{
+    width: 50%;
+    float: left;
+    
+    
+   
+}
+.login-controls{
+margin-left: 500px;
+color:#ffff;
+
+    
+}
+.login-label{
+
+    border-radius: 10px;
+}
+.login{
+    margin-top: 20px;
+}
+.forgotten{
+    
+    text-decoration: none;
+    color: beige;
+    font-size: small;
+    padding-left: 7px;
+
+
+
+}
+.sub-btn{
+    background-color:darkblue ;
+    color: #ffff;
+    border-color:#0165E1  ;
+    height: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+   
+
+}
+.sub-btn:hover{
+    background-color: #0165E1 ;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 50px;
+    padding-top: 40px;
+
+}
+.right-section{
+    width: 40%;
+    float: left;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+.main-body{
+
+    width:100% ;
+    height: 670px;
+   
+}
+.image{
+    width: 580px;
+}
+.para{
+    font-weight: bold;
+    font-size: 22px;
+    
+}
+.right-top{
+
+      font-weight: bolder;
+      font-size: 45px;
+
+}
+.right-top-down{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.inforamtion{
+
+    border-radius: 10px; 
+    font-size: 15px;
+    height: 26px;
+    width: 390px;
+    
+}
+.birthday{
+    color:dimgrey;
+    font-size: 18px;
+    font-weight:bold;
+    display: block;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+.birthday-inforamtion{
+    cursor: pointer;
+    border-radius: 10px;
+   font-size: 15px;
+   height: 25px;
+   font-weight: 545;
+   
+    
+}
+.gender{
+    color:dimgrey;
+    font-size: 18px;
+    font-weight:bold;
+    display: block;
+    padding-bottom: 10px;
+    padding-left: 5px;
+
+}
+.gender-arrange{
+    font-size:20px ;
+    font-weight:500;
+}
+.termsandservice{
+    font-size: 15px;
+    padding-left: 10px;
+    color:dimgrey;
+}
+.signup{
+    width: 166px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 21px;
+    color:#fff;
+    border-radius: 10px;
+    background-color: #0165E1;
+    border-color: #fff;
+    
+}
+.footer{
+
+    width: 100%;
+    height: 250px;
+    background-color: #f2f4f7;
+    padding-top: 50px;
+
+    
+}
+.langagues{
+    padding-left:215px ;
+    font-size: 15px;
+    
+    
+   
+}
+.line{
+    width: 1110px;
+}
+.facebookinfo{
+    padding-left: 215px;
+    padding-top: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    
+}
+.button{
+    height: 19px;
+    line-height: 22px;
+    font-size: 17px;
+    font-weight: 500;
+    padding-left: 6px;
+   color:#8a8d91; 
+}
